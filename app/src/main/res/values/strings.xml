@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cyber Security Game</string>
+    <string name="hard_level">HARD</string>
+    <string name="easy_level">EASY</string>
+    <string name="htp_button">How To Play?</string>
+    <string name="game_title">&lt;getHacked&gt;</string>
+    <string name="game_type">Prototype</string>
+    <string name="btn_answer">Button</string>
+    <string name="txt_view">TextView</string>
+    <string name="txt_htp">
+        Select Difficulty: Easy or Hard.\n
+        \n
+        Next, the player will have 10 seconds to answer a question.\n
+        \n
+        Note: the game won\'t start, until the timer is initialize.\n
+        \n
+        If answered correctly, the player moves forward, for the number of spaces indicated on the current space.\n
+        \n
+        If answered wrong, the player moves backward, for the number of spaces indicated on the current space.\n</string>
+    <string name="timer_btn">Start</string>
+    <string name="timer_start">00:10</string>
+    <string name="timer_reset">Reset</string>
+</resources>
